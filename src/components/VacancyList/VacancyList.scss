@@ -1,0 +1,15 @@
+.vacancy-list{
+    width: 250px;
+    height: auto;
+    float: left;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 1px solid #ffb851;
+    &__header{
+        font-weight: bold;
+        padding: 15px;
+        border-bottom: 1px solid #eaeef3;
+    }
+}
